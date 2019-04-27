@@ -39,6 +39,14 @@ Mini-batch gradient is a variation of stochastic gradient descent where instead 
 **_Artificial Neural Networks_**
 ANN are usually inspired from the human brain.A perceptron is nothing but a biological neuron.Perceptron can have two output values 0 or 1.A single layer perceptron will have no hiden layers.Multilayer perceptron will have hidden layers like in the figure shown below.
 ![Screenshot](mlp.png)
+ANN are generally feed forward networks.
+
+**_Convolution Neural Networks_**
+A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics.
+The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.
+
+The major difference between a traditional Artificial Neural Network (ANN) and CNN is that only the last layer of a CNN is fully connected whereas in ANN, each neuron is connected to every other neurons.
+
 
 
 
