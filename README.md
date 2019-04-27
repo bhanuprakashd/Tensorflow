@@ -35,6 +35,8 @@ _Mini-batch Gradient Descent_
 Mini-batch gradient is a variation of stochastic gradient descent where instead of single training example, mini-batch of samples is used. It’s one of the most popular optimization algorithms.  
 ![Screenshot](gradient.PNG)
 
+**_Artificial Neural Networks_**
+ANN are usually inspired from the human brain.A perceptron is nothing but a biological neuron.Perceptron can have two output values 0 or 1.A single layer perceptron will have no hiden layers.Multilayer perceptron will have hidden layers like in the figure shown below.
 
 
 
