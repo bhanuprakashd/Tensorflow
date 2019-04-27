@@ -48,10 +48,16 @@ The architecture of a ConvNet is analogous to that of the connectivity pattern o
 The major difference between a traditional Artificial Neural Network (ANN) and CNN is that only the last layer of a CNN is fully connected whereas in ANN, each neuron is connected to every other neurons.
 ![Screenshot](cnn.png)
 
-Consider an input RGB image
+Consider an input RGB image.Image is representaion pixels with some values.
 ![Screenshot](input.PNG)
 
+Convlution layer-Kernal
 
+let kernal be 3X3 matrix [1,0,1;
+                          0,1,0;
+                          1,01]
+                          
+Take the first Red image and apply the kernel on it.
 
 
 
