@@ -46,6 +46,16 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 The architecture of a ConvNet is analogous to that of the connectivity pattern of Neurons in the Human Brain and was inspired by the organization of the Visual Cortex. Individual neurons respond to stimuli only in a restricted region of the visual field known as the Receptive Field. A collection of such fields overlap to cover the entire visual area.
 
 The major difference between a traditional Artificial Neural Network (ANN) and CNN is that only the last layer of a CNN is fully connected whereas in ANN, each neuron is connected to every other neurons.
+![Screenshot](cnn.png)
+
+Consider an input RGB image
+![Screenshot](input.png)
+
+
+
+
+
+
 
 
 
