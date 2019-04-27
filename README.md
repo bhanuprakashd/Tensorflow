@@ -49,7 +49,7 @@ The major difference between a traditional Artificial Neural Network (ANN) and C
 ![Screenshot](cnn.png)
 
 Consider an input RGB image
-![Screenshot](input.png)
+![Screenshot](input.PNG)
 
 
 
