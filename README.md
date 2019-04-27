@@ -53,12 +53,13 @@ Consider an input RGB image.Image is representaion pixels with some values.
 
 Convlution layer-Kernal
 
-let kernal be 3X3 matrix [1,0,1;
-                          0,1,0;
-                          1,01]
+let kernal be 3X3 matrix [1,0,1;0,1,0;1,0,1]
                           
 Take the first Red image and apply the kernel on it.
 ![Screenshot](red.PNG) * ![Screenshot](kernel.png)
+
+
+
 
 
 
