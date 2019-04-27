@@ -25,6 +25,7 @@ Cost functions are used to minimize the errors to improve the accuracy of the mo
 **_Gradient Descent_**
 Gradient descent is an optimization algorithm used in machine learning to learn values of parameters that minimize the cost function. It’s an iterative algorithm, in every iteration, we compute the gradient of the cost function with respect to each parameter and update the parameters of the function.
 
+
 _Stochastic Gradient Descent_
 Uses only single training example to calculate the gradient and update parameters.
 
@@ -37,7 +38,7 @@ Mini-batch gradient is a variation of stochastic gradient descent where instead 
 
 **_Artificial Neural Networks_**
 ANN are usually inspired from the human brain.A perceptron is nothing but a biological neuron.Perceptron can have two output values 0 or 1.A single layer perceptron will have no hiden layers.Multilayer perceptron will have hidden layers like in the figure shown below.
-
+![Screenshot](mlp.png)
 
 
 
